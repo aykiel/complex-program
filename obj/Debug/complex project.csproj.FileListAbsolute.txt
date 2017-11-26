@@ -1,0 +1,14 @@
+C:\Users\Andrew\Downloads\complex project\complex project\bin\Debug\complex project.exe.config
+C:\Users\Andrew\Downloads\complex project\complex project\bin\Debug\complex project.exe
+C:\Users\Andrew\Downloads\complex project\complex project\bin\Debug\complex project.pdb
+C:\Users\Andrew\Downloads\complex project\complex project\obj\Debug\complex project.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Downloads\complex project\complex project\obj\Debug\complex_project.Form1.resources
+C:\Users\Andrew\Downloads\complex project\complex project\obj\Debug\complex_project.Properties.Resources.resources
+C:\Users\Andrew\Downloads\complex project\complex project\obj\Debug\complex project.csproj.GenerateResource.Cache
+C:\Users\Andrew\Downloads\complex project\complex project\obj\Debug\complex project.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Downloads\complex project\complex project\obj\Debug\complex project.exe
+C:\Users\Andrew\Downloads\complex project\complex project\obj\Debug\complex project.pdb
+C:\Users\Andrew\Downloads\complex project\complex project\bin\Debug\complex project.exe.manifest
+C:\Users\Andrew\Downloads\complex project\complex project\bin\Debug\complex project.application
+C:\Users\Andrew\Downloads\complex project\complex project\obj\Debug\complex project.exe.manifest
+C:\Users\Andrew\Downloads\complex project\complex project\obj\Debug\complex project.application
